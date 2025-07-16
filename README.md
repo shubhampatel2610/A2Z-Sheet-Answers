@@ -10,7 +10,7 @@ I'm a curious and passionate software developer with a strong **growth mindset**
 
 ## 📘 About This Repository
 
-This repository contains my solutions to the **Striver A2Z DSA Sheet**, a well-structured and comprehensive guide for mastering Data Structures and Algorithms.
+This repository contains my solutions to the **Striver A2Z DSA Sheet**[(Link)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/), a well-structured and comprehensive guide for mastering Data Structures and Algorithms.
 
 I’m working through the sheet step by step as a way to:
 - Strengthen my problem-solving skills 🧩  
