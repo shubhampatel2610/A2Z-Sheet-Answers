@@ -1,4 +1,4 @@
-# 🧠 Striver A2Z DSA Sheet – Solutions by Shubham Patel
+# 🧠 Striver A2Z DSA Sheet – Solutions by me 😀
 
 Hey there! 👋  
 Thanks for stopping by!
