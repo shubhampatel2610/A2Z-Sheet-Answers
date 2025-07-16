@@ -32,7 +32,6 @@ Feel free to open an issue or submit a pull request if you spot anything that co
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shubham-patel-6b01131b8/)
-- [Email](mailto:shubham2610codes@gmail.com)
 
 ---
 
