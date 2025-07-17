@@ -1,4 +1,4 @@
-# 🧠 Striver A2Z DSA Sheet – Solutions by me 😀
+# 🧠 Striver Tuf-A2Z-DSA-Sheet Solutions 😀
 
 Hey there! 👋  
 Thanks for stopping by!
